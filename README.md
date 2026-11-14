@@ -1,6 +1,12 @@
 # wifi_hacking
 A hands-on Wi-Fi security research project exploring wireless attacks from beacon frames and packet sniffing to deauthentication, handshake capture, WPA/WPA2 testing, rogue access points, and Evil Twin attacks using ESP32. Learn, experiment, analyze, and defend in an authorized lab.
 
+https://medium.com/@rachappabiradar6/why-every-engineering-student-should-learn-iot-5e55f1605b0b
+
+
+
+https://medium.com/@rachappabiradar6/getting-started-with-esp32-on-arduino-ide-a-complete-beginners-setup-guide-with-fixes-for-common-20054cd9ea78
+
 
 
 
